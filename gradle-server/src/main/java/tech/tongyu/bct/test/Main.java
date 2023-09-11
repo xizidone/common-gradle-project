@@ -6,7 +6,12 @@ public class Main {
 
 
         int a = 10;
-
+        System.out.println();
+        System.out.println();
+        System.out.println();
+        System.out.println();
+        System.out.println();
+        System.out.println();
 
         if(a > 1){
             System.out.println(" a > 1");
