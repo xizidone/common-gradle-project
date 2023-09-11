@@ -17,8 +17,9 @@ public class MainApplication {
     private UserTest userTest;
 
     public static void main(String[] args) {
+
+
         SpringApplication springApplication = new SpringApplication(MainApplication.class);
-        springApplication.addInitializers(new TestApplicationContextInitializer());
         springApplication.run(args);
 
     }
