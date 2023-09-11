@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common-starter/common-gradle-project.common-starter.main.iml" filepath="$PROJECT_DIR$/.idea/modules/common-starter/common-gradle-project.common-starter.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gradle-common/common-gradle-project.gradle-common.main.iml" filepath="$PROJECT_DIR$/.idea/modules/gradle-common/common-gradle-project.gradle-common.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gradle-server/common-gradle-project.gradle-server.main.iml" filepath="$PROJECT_DIR$/.idea/modules/gradle-server/common-gradle-project.gradle-server.main.iml" />
+    </modules>
+  </component>
+</project>

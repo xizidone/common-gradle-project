@@ -1,0 +1,9 @@
+# Project exclude paths
+/.gradle/
+/common-starter/build/
+/common-starter/build/classes/java/main/
+/gradle-common/build/
+/gradle-common/build/classes/java/main/
+/gradle-server/build/
+/gradle-server/build/classes/java/main/
+/gradle-server/build/classes/java/test/
