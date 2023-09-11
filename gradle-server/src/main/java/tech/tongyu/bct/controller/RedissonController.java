@@ -34,7 +34,6 @@ public class RedissonController {
     public Object user01() {
 
         System.out.println(confirmIncomeRate);
-        System.out.println(confirmIncomeRate);
         return confirmIncomeRate;
     }
 
